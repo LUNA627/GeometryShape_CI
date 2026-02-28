@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\LUNA0_0\\Desktop\\CI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1429FC2-7229-4BE7-BA2F-5B7C710152A6}|GeometryShape\\GeometryShape.csproj|c:\\users\\luna0_0\\desktop\\ci\\geometryshape\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1429FC2-7229-4BE7-BA2F-5B7C710152A6}|GeometryShape\\GeometryShape.csproj|solutionrelative:geometryshape\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1429FC2-7229-4BE7-BA2F-5B7C710152A6}|GeometryShape\\GeometryShape.csproj|c:\\users\\luna0_0\\desktop\\ci\\geometryshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1429FC2-7229-4BE7-BA2F-5B7C710152A6}|GeometryShape\\GeometryShape.csproj|solutionrelative:geometryshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\CI\\GeometryShape\\Class1.cs",
-              "RelativeDocumentMoniker": "GeometryShape\\Class1.cs",
-              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\CI\\GeometryShape\\Class1.cs",
-              "RelativeToolTip": "GeometryShape\\Class1.cs",
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\CI\\GeometryShape\\Rectangle.cs",
+              "RelativeDocumentMoniker": "GeometryShape\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\CI\\GeometryShape\\Rectangle.cs",
+              "RelativeToolTip": "GeometryShape\\Rectangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T04:49:37.062Z",
+              "WhenOpened": "2026-02-28T04:50:49.907Z",
               "EditorCaption": ""
             }
           ]
