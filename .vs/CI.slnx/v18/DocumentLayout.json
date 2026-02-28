@@ -22,8 +22,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +40,7 @@
               "RelativeDocumentMoniker": "GeometryShapeTests\\ShapeTests.cs",
               "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\CI\\GeometryShapeTests\\ShapeTests.cs",
               "RelativeToolTip": "GeometryShapeTests\\ShapeTests.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-28T05:07:13.508Z",
               "EditorCaption": ""
@@ -40,23 +48,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GeometryShapeTests",
+              "Title": "GeometryShapeTests.csproj",
               "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\CI\\GeometryShapeTests\\GeometryShapeTests.csproj",
               "RelativeDocumentMoniker": "GeometryShapeTests\\GeometryShapeTests.csproj",
               "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\CI\\GeometryShapeTests\\GeometryShapeTests.csproj",
               "RelativeToolTip": "GeometryShapeTests\\GeometryShapeTests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-28T05:06:57.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "WhenOpened": "2026-02-28T05:06:57.606Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "GeometryShape\\Rectangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T04:50:49.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-28T04:50:49.907Z"
             }
           ]
         }

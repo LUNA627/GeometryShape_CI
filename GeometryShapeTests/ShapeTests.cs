@@ -6,7 +6,7 @@ namespace GeometryShapeTests
     {
         // Создание фигуры "Прямоугольник" - корректный
         [Theory]
-        [InlineData(5, 3, 15)]
+        [InlineData(15, 3, 15)]
         [InlineData(3, 6, 18)]
         public void Test1(double width, double height, double result)
         {

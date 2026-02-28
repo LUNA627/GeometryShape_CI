@@ -1,0 +1,12 @@
+C:\Users\LUNA0_0\Desktop\CI\GeometryShape\bin\Debug\net8.0\GeometryShape.deps.json
+C:\Users\LUNA0_0\Desktop\CI\GeometryShape\bin\Debug\net8.0\GeometryShape.dll
+C:\Users\LUNA0_0\Desktop\CI\GeometryShape\bin\Debug\net8.0\GeometryShape.pdb
+C:\Users\LUNA0_0\Desktop\CI\GeometryShape\obj\Debug\net8.0\GeometryShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUNA0_0\Desktop\CI\GeometryShape\obj\Debug\net8.0\GeometryShape.AssemblyInfoInputs.cache
+C:\Users\LUNA0_0\Desktop\CI\GeometryShape\obj\Debug\net8.0\GeometryShape.AssemblyInfo.cs
+C:\Users\LUNA0_0\Desktop\CI\GeometryShape\obj\Debug\net8.0\GeometryShape.csproj.CoreCompileInputs.cache
+C:\Users\LUNA0_0\Desktop\CI\GeometryShape\obj\Debug\net8.0\GeometryShape.sourcelink.json
+C:\Users\LUNA0_0\Desktop\CI\GeometryShape\obj\Debug\net8.0\GeometryShape.dll
+C:\Users\LUNA0_0\Desktop\CI\GeometryShape\obj\Debug\net8.0\refint\GeometryShape.dll
+C:\Users\LUNA0_0\Desktop\CI\GeometryShape\obj\Debug\net8.0\GeometryShape.pdb
+C:\Users\LUNA0_0\Desktop\CI\GeometryShape\obj\Debug\net8.0\ref\GeometryShape.dll
