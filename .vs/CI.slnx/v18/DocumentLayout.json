@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LUNA0_0\\Desktop\\CI\\",
+  "WorkspaceRootPath": "C:\\Users\\LUNA\\Desktop\\GeometryShape_CI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{175EA114-FC25-41A4-8757-655712EC5A0D}|GeometryShapeTests\\GeometryShapeTests.csproj|c:\\users\\luna0_0\\desktop\\ci\\geometryshapetests\\shapetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{175EA114-FC25-41A4-8757-655712EC5A0D}|GeometryShapeTests\\GeometryShapeTests.csproj|c:\\users\\luna\\desktop\\geometryshape_ci\\geometryshapetests\\shapetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{175EA114-FC25-41A4-8757-655712EC5A0D}|GeometryShapeTests\\GeometryShapeTests.csproj|solutionrelative:geometryshapetests\\shapetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{175EA114-FC25-41A4-8757-655712EC5A0D}|GeometryShapeTests\\GeometryShapeTests.csproj|c:\\users\\luna0_0\\desktop\\ci\\geometryshapetests\\geometryshapetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{175EA114-FC25-41A4-8757-655712EC5A0D}|GeometryShapeTests\\GeometryShapeTests.csproj|c:\\users\\luna\\desktop\\geometryshape_ci\\geometryshapetests\\geometryshapetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{175EA114-FC25-41A4-8757-655712EC5A0D}|GeometryShapeTests\\GeometryShapeTests.csproj|solutionrelative:geometryshapetests\\geometryshapetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5699E2E-BD7D-D623-F476-7EB787E2DD8B}|GeometryShape\\GeometryShape.csproj|c:\\users\\luna0_0\\desktop\\ci\\geometryshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5699E2E-BD7D-D623-F476-7EB787E2DD8B}|GeometryShape\\GeometryShape.csproj|c:\\users\\luna\\desktop\\geometryshape_ci\\geometryshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5699E2E-BD7D-D623-F476-7EB787E2DD8B}|GeometryShape\\GeometryShape.csproj|solutionrelative:geometryshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ShapeTests.cs",
-              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\CI\\GeometryShapeTests\\ShapeTests.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA\\Desktop\\GeometryShape_CI\\GeometryShapeTests\\ShapeTests.cs",
               "RelativeDocumentMoniker": "GeometryShapeTests\\ShapeTests.cs",
-              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\CI\\GeometryShapeTests\\ShapeTests.cs",
+              "ToolTip": "C:\\Users\\LUNA\\Desktop\\GeometryShape_CI\\GeometryShapeTests\\ShapeTests.cs",
               "RelativeToolTip": "GeometryShapeTests\\ShapeTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-28T05:07:13.508Z",
               "EditorCaption": ""
@@ -49,9 +49,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "GeometryShapeTests.csproj",
-              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\CI\\GeometryShapeTests\\GeometryShapeTests.csproj",
+              "DocumentMoniker": "C:\\Users\\LUNA\\Desktop\\GeometryShape_CI\\GeometryShapeTests\\GeometryShapeTests.csproj",
               "RelativeDocumentMoniker": "GeometryShapeTests\\GeometryShapeTests.csproj",
-              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\CI\\GeometryShapeTests\\GeometryShapeTests.csproj",
+              "ToolTip": "C:\\Users\\LUNA\\Desktop\\GeometryShape_CI\\GeometryShapeTests\\GeometryShapeTests.csproj",
               "RelativeToolTip": "GeometryShapeTests\\GeometryShapeTests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -61,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\CI\\GeometryShape\\Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA\\Desktop\\GeometryShape_CI\\GeometryShape\\Rectangle.cs",
               "RelativeDocumentMoniker": "GeometryShape\\Rectangle.cs",
-              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\CI\\GeometryShape\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\LUNA\\Desktop\\GeometryShape_CI\\GeometryShape\\Rectangle.cs",
               "RelativeToolTip": "GeometryShape\\Rectangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
