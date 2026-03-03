@@ -1708,6 +1708,16 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "GeometryShape/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/GeometryShape.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GeometryShape.dll": {}
+        }
       }
     }
   },
@@ -5497,10 +5507,16 @@
         "xunit.runner.visualstudio.2.5.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "GeometryShape/1.0.0": {
+      "type": "project",
+      "path": "../GeometryShape/GeometryShape.csproj",
+      "msbuildProject": "../GeometryShape/GeometryShape.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "GeometryShape >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.5.3",
@@ -5508,23 +5524,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LUNA0_0\\.nuget\\packages\\": {},
+    "C:\\Users\\LUNA\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LUNA0_0\\Desktop\\CI\\GeometryShapeTests\\GeometryShapeTests.csproj",
+      "projectUniqueName": "C:\\Users\\LUNA\\Desktop\\GeometryShape_CI\\GeometryShapeTests\\GeometryShapeTests.csproj",
       "projectName": "GeometryShapeTests",
-      "projectPath": "C:\\Users\\LUNA0_0\\Desktop\\CI\\GeometryShapeTests\\GeometryShapeTests.csproj",
-      "packagesPath": "C:\\Users\\LUNA0_0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LUNA0_0\\Desktop\\CI\\GeometryShapeTests\\obj\\",
+      "projectPath": "C:\\Users\\LUNA\\Desktop\\GeometryShape_CI\\GeometryShapeTests\\GeometryShapeTests.csproj",
+      "packagesPath": "C:\\Users\\LUNA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LUNA\\Desktop\\GeometryShape_CI\\GeometryShapeTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\LUNA0_0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LUNA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5538,7 +5554,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\LUNA\\Desktop\\GeometryShape_CI\\GeometryShape\\GeometryShape.csproj": {
+              "projectPath": "C:\\Users\\LUNA\\Desktop\\GeometryShape_CI\\GeometryShape\\GeometryShape.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
